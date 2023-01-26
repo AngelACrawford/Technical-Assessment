@@ -4,8 +4,8 @@ My Solution to PMG's CSV Assessment.
 Uses Python
 Download Panda!
 
-#How To Run Code
-python3 ./csvcombiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv > combiner.csv
+# How To Run Code
+$ python3 ./csvcombiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv > combiner.csv
 
-#How To Run Unit Test
-python3 -m unittest test.py
+# How To Run Unit Test
+$ python3 -m unittest test.py
